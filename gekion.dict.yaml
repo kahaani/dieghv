@@ -10,7 +10,7 @@
 
 ---
 name: gekion
-version: "2015.12.03"
+version: "2015.12.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -6829,9 +6829,9 @@ use_preset_vocabulary: true
 悸	gui3
 瑰	gui3
 跪	gui6
-縣	gui7
-櫃	gui7
-匱	gui7
+縣	guin7
+櫃	guin7
+匱	guin7
 虧	kui1
 巋	kui1
 軌	kui2
@@ -6885,17 +6885,17 @@ use_preset_vocabulary: true
 隳	hui1
 騑	hui1
 麾	hui1
-匪	hui2
+匪	huin2
 卉	hui2
 悱	hui2
-榧	hui2
-毀	hui2
-譭	hui2
-燬	hui2
-棐	hui2
-虺	hui2
-蜚	hui2
-誹	hui2
+榧	huin2
+毀	huin2
+譭	huin2
+燬	huin2
+棐	huin2
+虺	huin2
+蜚	huin2
+誹	huin2
 費	hui3
 剕	hui3
 廢	hui3
