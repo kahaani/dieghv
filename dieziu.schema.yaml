@@ -3,8 +3,8 @@
 
 schema:
   schema_id: dieziu
-  name: 潮語拼音（潮州）
-  version: "2015.12.02"
+  name: 潮語拼音〔潮州〕
+  version: "2015.12.05"
   author:
     - 騰達 <czhtd@126.com>
   description: |

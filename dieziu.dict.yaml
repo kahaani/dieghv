@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: UTF-8 w/o BOM
 #
-# 潮語拼音（潮州）
+# 潮語拼音〔潮州〕
 #
 # 來源：《潮州音字典》
 # - 吳華重、林適民主編，廣東人民出版社1983年重版
@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2015.12.02"
+version: "2015.12.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8456,4 +8456,4 @@ use_preset_vocabulary: true
 饊	suan3
 腺	suan5
 
-潮語	die5ghv2
+潮語	die5 ghv2
