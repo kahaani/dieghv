@@ -4,7 +4,7 @@
 schema:
   schema_id: dieziu
   name: 潮語拼音〔潮州〕
-  version: "2015.12.05"
+  version: "2015.12.21"
   author:
     - 騰達 <czhtd@126.com>
   description: |
@@ -52,8 +52,8 @@ speller:
   delimiter: " '"
   algebra:
     # 针对潮州新派的模糊音
-    - derive/([^iu])am/$1ang/
-    - derive/([^iu])ap/$1ak/
+    - derive/([^iu])?am/$1ang/
+    - derive/([^iu])?ap/$1ak/
     - derive/iam/ieng/
     - derive/iap/iek/
     - derive/uam/uang/
