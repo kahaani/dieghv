@@ -10,11 +10,12 @@
 
 ---
 name: dioion
-version: "2015.12.05"
+version: "2015.12.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
+# 字典字音，按音序檢字表排列
 亞	a1
 丫	a1
 椏	a1
@@ -8457,4 +8458,8 @@ use_preset_vocabulary: true
 饊	suan3
 腺	suan5
 
+# 增補字音，按字母序排列
+陽	ion5
+
+# 增補詞語，按字母序排列
 潮語	dio5 ghu2
