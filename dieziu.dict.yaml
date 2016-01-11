@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2015.12.30"
+version: "2016.01.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8458,7 +8458,19 @@ use_preset_vocabulary: true
 腺	suan5
 
 # 增補字音，按字母序排列
+瓣	bang7
+廣	gvng2
+恢	hue1
 陽	ien5
+傾	kueng1
+開	kui1
+流	lau5
+瓶	ping5
+瓣	poin7
+小	sie2
+宣	sueng1
+換	uan7
 
 # 增補詞語，按字母序排列
 潮語	die5 ghv2
+家己人	ga1 gi7 nang5
