@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.01.11"
+version: "2016.01.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8458,8 +8458,8 @@ use_preset_vocabulary: true
 腺	suan5
 
 # 增補字音，按字母序排列
+瓣	bain7
 瓣	bang7
-瓣	boin7
 廣	gvng2
 恢	hue1
 陽	ion5
