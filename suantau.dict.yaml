@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.01.12"
+version: "2016.01.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8462,12 +8462,32 @@ use_preset_vocabulary: true
 瓣	bang7
 廣	gvng2
 恢	hue1
+曛	hung1
+薰	hung1
+燻	hung1
+醺	hung1
+殷	hvng1
+欣	hvng1
+勛	hvng1
+勳	hvng1
+掀	hvng1
+昕	hvng1
+軒	hvng1
+鍁	hvng1
+很	hvng2
+狠	hvng2
+恨	hvng6
 陽	ion5
 開	kui1
 流	lau5
 瓶	ping5
 小	sio2
 換	uan7
+恩	vng1
+摁	vng1
+蒽	vng1
+尹	vng2
+隱	vng2
 
 # 增補詞語，按字母序排列
 潮語	dio5 ghv2
