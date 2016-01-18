@@ -4,7 +4,7 @@
 schema:
   schema_id: dieziu
   name: 潮語拼音〔潮州〕
-  version: "2016.01.11"
+  version: "2016.01.18"
   author:
     - 騰達 <czhtd@126.com>
   description: |
@@ -72,26 +72,26 @@ speller:
     - derive/^(.+)h$/$1/
 
     # 鼻音处理方案甲：不强制要求将ng写成f
-    # derive/ng/f/
+    - derive/ng/f/
     # 鼻音处理方案乙：强制要求将ng写成f
-    - xform/ng/f/
+    # xform/ng/f/
 
     # 引入颚化符号
     - derive/zi/ji/
     - derive/ci/qi/
     - derive/si/xi/
 
+    # 容错
+    - derive/au/ao/
+
     # 隔音符号
     # y,w
 
-    # 允许将声母作为音节的缩写
-    - fuzz/^([acdefhijklmopqrstuvwxyz]).+$/$1/
-    - fuzz/^(b)[^h].*$/$1/
-    - fuzz/^(g)[^h].*$/$1/
-    - fuzz/^(n)[^g].*$/$1/
-    - fuzz/^(bh).+$/$1/
-    - fuzz/^(gh).+$/$1/
-    - fuzz/^(ng).+$/$1/
+    # 首字母简拼、声母简拼
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^(bh).+$/$1/
+    - abbrev/^(gh).+$/$1/
+    - abbrev/^(ng).+$/$1/
 
 translator:
   dictionary: dieziu
@@ -106,6 +106,15 @@ translator:
     # xform/x/s/
 
   comment_format: &comment_rules
+    # 标记出所有鼻化符号
+    - xform/n(\d)/N$1/
+
+    # 鼻化显示方案甲：上标
+    - xform/N/ⁿ/
+
+    # 鼻化显示方案乙：音节尾部波浪线
+    # xform/N/~/
+
     # 声调显示方案甲：不显示
     # xform/[1-8]//
 
@@ -123,16 +132,6 @@ translator:
     # xform/bh/bʰ/
     # xform/gh/gʰ/
     # xform/ng/ŋ/
-
-    # 标记出所有鼻化符号
-    - xform/n /N/
-    - xform/n$/N/
-
-    # 鼻化显示方案甲：上标
-    - xform/N/ⁿ/
-
-    # 鼻化显示方案乙：音节尾部波浪线
-    # xform/N/~/
 
 reverse_lookup:
   dictionary: luna_pinyin
