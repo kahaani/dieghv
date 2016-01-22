@@ -101,14 +101,7 @@ translator:
     - xform/n(\d)/ⁿ$1/
 
     # 將聲調顯示成上標
-    - xform/1/¹/
-    - xform/2/²/
-    - xform/3/³/
-    - xform/4/⁴/
-    - xform/5/⁵/
-    - xform/6/⁶/
-    - xform/7/⁷/
-    - xform/8/⁸/
+    - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
 
 reverse_lookup:
   dictionary: luna_pinyin
