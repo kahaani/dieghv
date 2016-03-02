@@ -4,7 +4,7 @@
 schema:
   schema_id: riaupeng
   name: 潮語拼音〔饒平〕
-  version: "2016.01.22"
+  version: "2016.03.02"
   author:
     - 騰達 <czhtd@126.com>
   description: |
@@ -86,7 +86,7 @@ translator:
 
   comment_format: &comment_rules
     # 將鼻化符號顯示成上標
-    - xform/n(\d)/ⁿ$1/
+    - xform/n(\d|\>)/ⁿ$1/
 
     # 將聲調顯示成上標
     - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
