@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.01.21"
+version: "2016.03.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8462,6 +8462,7 @@ use_preset_vocabulary: true
 瓣	bang7
 翁	eng1
 假	gian2
+關	guen1
 廣	gvng2
 遠	hng6
 擤	hngh4
