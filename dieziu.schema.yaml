@@ -55,14 +55,10 @@ speller:
     - xform/[1-8]//
 
     # 針對潮州新派的模糊音
-    - derive/^am/ang/
-    - derive/^ap/ak/
-    - derive/([^iu])am/$1ang/
-    - derive/([^iu])ap/$1ak/
-    - derive/iam/ieng/
-    - derive/iap/iek/
-    - derive/uam/uang/
-    - derive/uap/uak/
+    - derive/am/ang/
+    - derive/ap/ak/
+    - derive/em/eng/
+    - derive/ep/ek/
     - derive/im/ing/
     - derive/ip/ik/
 
