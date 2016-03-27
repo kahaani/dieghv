@@ -4,11 +4,13 @@
 schema:
   schema_id: riaupeng
   name: 潮語拼音〔饒平〕
-  version: "2016.03.02"
+  version: "2016.03.27"
   author:
-    - 騰達 <czhtd@126.com>
+    - 騰達 <dieghv@126.com>
   description: |
     潮語拼音輸入法
+    項目主頁 http://kahaani.github.io/dieghv
+    拼音教程 http://kahaani.github.io/gatian
   dependencies:
     - luna_pinyin
 
