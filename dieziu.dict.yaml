@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.03.02"
+version: "2016.04.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8460,6 +8460,9 @@ use_preset_vocabulary: true
 # 增補字音，按字母序排列
 啊	a7
 瓣	bang7
+遍	bieng3
+遍	bin3
+婷	deng5
 翁	eng1
 假	gian2
 關	guen1
@@ -8468,13 +8471,16 @@ use_preset_vocabulary: true
 擤	hngh4
 荷	ho5
 恢	hue1
+飛	hui1
 曛	hung1
 薰	hung1
 燻	hung1
 醺	hung1
 陽	ien5
+擴	kuang3
 傾	kueng1
 開	kui1
+留	lau5
 流	lau5
 瓶	ping5
 瓣	poin7

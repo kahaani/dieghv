@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.03.02"
+version: "2016.04.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8461,6 +8461,9 @@ use_preset_vocabulary: true
 啊	a7
 瓣	bain7
 瓣	bang7
+遍	biang3
+遍	bin3
+婷	deng5
 翁	eng1
 假	gian2
 關	guen1
@@ -8469,6 +8472,7 @@ use_preset_vocabulary: true
 擤	hngh4
 荷	ho5
 恢	hue1
+飛	hui1
 曛	hung1
 薰	hung1
 燻	hung1
@@ -8485,7 +8489,9 @@ use_preset_vocabulary: true
 狠	hvng2
 恨	hvng6
 陽	ion5
+擴	kuang3
 開	kui1
+留	lau5
 流	lau5
 夗	ngh8
 瓶	ping5
