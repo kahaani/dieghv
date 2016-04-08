@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.04.02"
+version: "2016.04.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8463,6 +8463,7 @@ use_preset_vocabulary: true
 瓣	bang7
 遍	biang3
 遍	bin3
+飯	bung7
 婷	deng5
 翁	eng1
 假	gian2
@@ -8471,6 +8472,7 @@ use_preset_vocabulary: true
 遠	hng6
 擤	hngh4
 荷	ho5
+歡	huan1
 恢	hue1
 飛	hui1
 曛	hung1
@@ -8507,6 +8509,7 @@ use_preset_vocabulary: true
 蒽	vng1
 尹	vng2
 隱	vng2
+樟	ziang1
 輯	zip4
 
 # 增補詞語，按字母序排列
@@ -8514,4 +8517,5 @@ use_preset_vocabulary: true
 薄荷	boh8 ho3
 潮語	dio5 ghv2
 家己人	ga1 gi7 nang5
+石榴	sioh8 liu5
 先生	sing1 sen1
