@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.05.01"
+version: "2016.05.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8467,9 +8467,11 @@ use_preset_vocabulary: true
 飯	bung7
 找	cue7
 婷	deng5
+長	dvng5
 翁	eng1
 假	gian2
 見	gin3
+墘	gin5
 逛	guang6
 關	guen1
 幾	gui2
@@ -8497,6 +8499,7 @@ use_preset_vocabulary: true
 很	hvng2
 狠	hvng2
 恨	hvng6
+一	iau1
 陽	ion5
 檻	kam2
 擴	kuang3
@@ -8507,9 +8510,12 @@ use_preset_vocabulary: true
 謀	mou5
 藍	na5
 夗	ngh8
+兩	no6
+會	oi3
 瓶	ping5
 捧	pong2
 孕	reng6
+汝	ru2
 熱	ruah8
 薪	sing1
 小	sio2
@@ -8532,7 +8538,9 @@ use_preset_vocabulary: true
 牡丹	bhou2 duan1
 薄荷	boh8 ho3
 潮語	dio5 ghv2
+家己	ga1 gi7
 家己人	ga1 gi7 nang5
+現在	hing7 zai6
 鬧熱	lau7 riak8
 師父	sai1 be6
 石榴	sioh8 liu5
