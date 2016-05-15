@@ -10,7 +10,7 @@
 
 ---
 name: tenghai
-version: "2016.05.01"
+version: "2016.05.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4337,7 +4337,7 @@ use_preset_vocabulary: true
 怔	zeng1
 憎	zeng1
 蹭	zeng1
-會	zeng1
+曾	zeng1
 鉦	zeng1
 幀	zeng1
 錚	zeng1
