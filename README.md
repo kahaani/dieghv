@@ -12,6 +12,7 @@
 
 - [安装方法〔Windows〕](http://kahaani.github.io/gatian/appendix2/weasel.html)
 - [安装方法〔Mac OS X〕](http://kahaani.github.io/gatian/appendix2/squirrel.html)
+- [安装方法〔Linux〕](http://kahaani.github.io/gatian/appendix2/ibus.html)
 - [安装方法〔Android〕](http://kahaani.github.io/gatian/appendix2/trime.html)
 
 ## 拼音方案速查
