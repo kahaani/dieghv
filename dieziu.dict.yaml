@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.05.15"
+version: "2016.05.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8460,17 +8460,21 @@ use_preset_vocabulary: true
 # 增補字音，按字母序排列
 啊	a7
 瓣	bang7
+曝	bau6
 平	ben5
 遍	bieng3
 遍	bin3
 飯	bung7
+臊	co1
 找	cue7
 婷	deng5
 長	dvng5
 翁	eng1
+指	gi2
 假	gian2
 見	gin3
 墘	gin5
+指	goi1
 逛	guang6
 關	guen1
 幾	gui2
@@ -8482,7 +8486,9 @@ use_preset_vocabulary: true
 還	huan1
 歡	huan1
 恢	hue1
+歲	hue3
 飛	hui1
+暈	hung1
 曛	hung1
 薰	hung1
 燻	hung1
@@ -8495,10 +8501,14 @@ use_preset_vocabulary: true
 頃	kueng2
 開	kui1
 魁	kui5
+賴	lai6
 留	lau5
 流	lau5
 藍	na5
+呢	ne1
+染	ni2
 兩	no6
+厄	oh4
 會	oi3
 瓶	ping5
 瓣	poin7
@@ -8506,6 +8516,7 @@ use_preset_vocabulary: true
 孕	reng6
 汝	ru2
 熱	ruah8
+膻	sang1
 小	sie2
 薪	sing1
 宣	sueng1
@@ -8513,22 +8524,34 @@ use_preset_vocabulary: true
 添	tin1
 醜	tiu2
 替	toi3
+代	toih4
 推	tui1
 換	uan7
 夗	uk8
 樟	ziang1
 輯	zip4
 緝	zip4
+指	zoin2
+指	zvng1
 
 # 增補詞語，按字母序排列
 牡丹	bhou2 duan1
 薄荷	bo7 ho3
+豆仁	dau7 ring5
+地豆	di7 dau7
 潮語	die5 ghv2
 家己	ga1 gi7
 家己人	ga1 gi7 nang5
+工夫茶	gang1 hu1 de5
+交代	gau1 dai3
 現在	hing7 zai6
 開元	kai1 ngang5
+工課	kang1 kue3
 鬧熱	lau7 riek8
+𨻧隍	liu5 ng5
+麻秧	mua5 ng2
 師父	sai1 be6
 石榴	sieh8 liu5
+新婦	sim1 bu6
 先生	sing1 sen1
+粘米	ziem1 bhi2
