@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.05.29"
+version: "2016.06.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8459,11 +8459,13 @@ use_preset_vocabulary: true
 
 # 增補字音，按字母序排列
 啊	a7
+放	bang3
 瓣	bang7
 曝	bau6
 平	ben5
 遍	bieng3
 遍	bin3
+哺	bou7
 飯	bung7
 臊	co1
 找	cue7
@@ -8475,18 +8477,22 @@ use_preset_vocabulary: true
 見	gin3
 墘	gin5
 指	goi1
+狹	goih8
 逛	guang6
 關	guen1
 幾	gui2
+危	guin5
 廣	gvng2
+捲	gvng2
+還	hain5
 遠	hng6
 擤	hngh4
 荷	ho5
-還	hain5
 還	huan1
 歡	huan1
 恢	hue1
 歲	hue3
+緩	hueng2
 飛	hui1
 暈	hung1
 曛	hung1
@@ -8496,6 +8502,7 @@ use_preset_vocabulary: true
 陽	ien5
 一	iou1
 檻	kam2
+杞	ki2
 擴	kuang3
 傾	kueng1
 頃	kueng2
@@ -8504,12 +8511,15 @@ use_preset_vocabulary: true
 賴	lai6
 留	lau5
 流	lau5
+糜	mue5
 藍	na5
 呢	ne1
+訛	ngo5
 染	ni2
 兩	no6
 厄	oh4
 會	oi3
+狹	oih8
 瓶	ping5
 瓣	poin7
 捧	pong2
@@ -8517,8 +8527,11 @@ use_preset_vocabulary: true
 汝	ru2
 熱	ruah8
 膻	sang1
+㾪	sang2
 小	sie2
+纖	siem1
 薪	sing1
+𤞚	siou2
 宣	sueng1
 搐	tek4
 添	tin1
@@ -8528,15 +8541,18 @@ use_preset_vocabulary: true
 推	tui1
 換	uan7
 夗	uk8
+䘼	ung2
 樟	ziang1
 輯	zip4
 緝	zip4
 指	zoin2
+粥	zok8
 指	zvng1
 
 # 增補詞語，按字母序排列
 牡丹	bhou2 duan1
 薄荷	bo7 ho3
+手䘼	ciu2 ung2
 豆仁	dau7 ring5
 地豆	di7 dau7
 潮語	die5 ghv2
@@ -8544,14 +8560,28 @@ use_preset_vocabulary: true
 家己人	ga1 gi7 nang5
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
+穀雨	gok4 u2
+杠杆	gong3 hang2
 現在	hing7 zai6
+雨遮	hou6 zia1
+雨水	hou6 zui2
+粉纖	hung2 ciem1
 開元	kai1 ngang5
 工課	kang1 kue3
 鬧熱	lau7 riek8
 𨻧隍	liu5 ng5
+曼谷	mang6 gok8
+明年	me5 ni5
 麻秧	mua5 ng2
 師父	sai1 be6
 石榴	sieh8 liu5
+纖須	siem1 su1
 新婦	sim1 bu6
+什麽	sim6 moh4
+什麼	sim6 moh4
 先生	sing1 sen1
+雨水	u2 zui2
 粘米	ziem1 bhi2
+狀元	zo6 ngueng5
+節氣	zoih4 ki3
+節令	zoih4 leng6
