@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.06.26"
+version: "2016.07.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8469,7 +8469,9 @@ use_preset_vocabulary: true
 飯	bung7
 臊	co1
 找	cue7
+纂	cueng3
 婷	deng5
+簟	diem6
 長	dvng5
 翁	eng1
 指	gi2
@@ -8511,6 +8513,8 @@ use_preset_vocabulary: true
 賴	lai6
 留	lau5
 流	lau5
+叻	leh4
+𥺴	liem3
 糜	mue5
 藍	na5
 呢	ne1
@@ -8550,6 +8554,7 @@ use_preset_vocabulary: true
 指	zvng1
 
 # 增補詞語，按字母序排列
+鴨母𥺴	ah4 bho2 liem3
 牡丹	bhou2 duan1
 薄荷	bo7 ho3
 手䘼	ciu2 ung2
@@ -8569,6 +8574,7 @@ use_preset_vocabulary: true
 開元	kai1 ngang5
 工課	kang1 kue3
 鬧熱	lau7 riek8
+蓮霧	liem1 bhu7
 𨻧隍	liu5 ng5
 曼谷	mang6 gok8
 明年	me5 ni5
@@ -8576,6 +8582,7 @@ use_preset_vocabulary: true
 師父	sai1 be6
 石榴	sieh8 liu5
 纖須	siem1 su1
+石叻	sik8 lak8
 新婦	sim1 bu6
 什麽	sim6 moh4
 什麼	sim6 moh4

@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.06.26"
+version: "2016.07.02"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8459,18 +8459,23 @@ use_preset_vocabulary: true
 
 # 增補字音，按字母序排列
 啊	a7
+辦	bain7
 瓣	bain7
 放	bang3
 瓣	bang7
 曝	bau6
 平	ben5
+痱	bhui3
+疿	bhui3
 遍	biang3
 遍	bin3
 哺	bou7
 飯	bung7
 臊	co1
+纂	cuang3
 找	cue7
 婷	deng5
+簟	diam6
 長	dvng5
 翁	eng1
 指	gi2
@@ -8521,6 +8526,7 @@ use_preset_vocabulary: true
 賴	lai6
 留	lau5
 流	lau5
+叻	leh4
 謀	mou5
 糜	mue5
 藍	na5
@@ -8529,7 +8535,9 @@ use_preset_vocabulary: true
 夗	ngh8
 訛	ngo5
 染	ni2
+𥺴	nim3
 兩	no6
+餒	nui2
 厄	oh4
 會	oi3
 狹	oih8
@@ -8564,6 +8572,7 @@ use_preset_vocabulary: true
 指	zvng1
 
 # 增補詞語，按字母序排列
+鴨母𥺴	ah4 bho2 nim3
 牡丹	bhou2 duan1
 薄荷	boh8 ho3
 手䘼	ciu2 ng2
@@ -8586,8 +8595,10 @@ use_preset_vocabulary: true
 曼谷	mang6 gok8
 明年	me5 ni5
 麻秧	mua5 ng2
+蓮霧	niang1 bhu7
 師父	sai1 be6
 纖須	siam1 su1
+石叻	sik8 lak8
 新婦	sim1 bu6
 什麽	sim6 moh4
 什麼	sim6 moh4
