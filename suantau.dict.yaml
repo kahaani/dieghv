@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2016.07.02"
+version: "2016.08.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8478,6 +8478,7 @@ use_preset_vocabulary: true
 簟	diam6
 長	dvng5
 翁	eng1
+下	ge6
 指	gi2
 假	gian2
 見	gin3
@@ -8490,6 +8491,7 @@ use_preset_vocabulary: true
 危	guin5
 廣	gvng2
 捲	gvng2
+下	he6
 遠	hng6
 擤	hngh4
 荷	ho5
@@ -8520,6 +8522,8 @@ use_preset_vocabulary: true
 陽	ion5
 檻	kam2
 杞	ki2
+奇	kia1
+徛	kia6
 擴	kuang3
 開	kui1
 魁	kui5
@@ -8527,6 +8531,9 @@ use_preset_vocabulary: true
 留	lau5
 流	lau5
 叻	leh4
+蠓	mang2
+暝	me5
+暝	meng5
 貿	mou3
 瞀	mou3
 檬	mou5
@@ -8546,10 +8553,12 @@ use_preset_vocabulary: true
 袤	mou6
 糜	mue5
 藍	na5
+儂	nang5
 呢	ne1
 䘼	ng2
 夗	ngh8
 訛	ngo5
+懸	ngui5
 染	ni2
 𥺴	nim3
 兩	no6
@@ -8557,6 +8566,10 @@ use_preset_vocabulary: true
 厄	oh4
 會	oi3
 狹	oih8
+伏	pak4
+芳	pang1
+香	pang1
+趴	pih4
 瓶	ping5
 捧	pong2
 孕	reng6
@@ -8604,6 +8617,8 @@ use_preset_vocabulary: true
 現在	hing7 zai6
 雨遮	hou6 zia1
 雨水	hou6 zui2
+煩惱	huang5 lo2
+煩惱	huang5 nau2
 粉纖	hung2 ciam1
 工課	kang1 kue3
 鬧熱	lau7 riak8
