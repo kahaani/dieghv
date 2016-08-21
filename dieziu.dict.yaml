@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.08.07"
+version: "2016.08.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8474,6 +8474,7 @@ use_preset_vocabulary: true
 簟	diem6
 長	dvng5
 翁	eng1
+合	gah4
 下	ge6
 指	gi2
 假	gian2
@@ -8519,6 +8520,7 @@ use_preset_vocabulary: true
 流	lau5
 叻	leh4
 𥺴	liem3
+唔	m6
 蠓	mang2
 暝	me5
 暝	meng5
@@ -8549,6 +8551,8 @@ use_preset_vocabulary: true
 纖	siem1
 薪	sing1
 𤞚	siou2
+塑	sok4
+溯	sok4
 宣	sueng1
 搐	tek4
 添	tin1
@@ -8564,10 +8568,12 @@ use_preset_vocabulary: true
 緝	zip4
 指	zoin2
 粥	zok8
+就	zu6
 指	zvng1
 
 # 增補詞語，按字母序排列
 鴨母𥺴	ah4 bho2 liem3
+翁姐	ang1 zia2
 牡丹	bhou2 duan1
 薄荷	bo7 ho3
 手䘼	ciu2 ung2
@@ -8578,6 +8584,7 @@ use_preset_vocabulary: true
 家己人	ga1 gi7 nang5
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
+雞翁	goi1 ang1
 穀雨	gok4 u2
 杠杆	gong3 hang2
 現在	hing7 zai6
