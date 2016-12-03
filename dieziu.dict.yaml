@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2016.08.21"
+version: "2016.12.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8470,18 +8470,26 @@ use_preset_vocabulary: true
 臊	co1
 找	cue7
 纂	cueng3
+等	dang2
 婷	deng5
 簟	diem6
+轉	dvng2
 長	dvng5
+斷	dvng6
+亦	ek8
 翁	eng1
+鉸	ga1
 合	gah4
 下	ge6
 指	gi2
 假	gian2
 見	gin3
 墘	gin5
+九	giu2
 指	goi1
 狹	goih8
+蓋	gua3
+汗	guan7
 逛	guang6
 關	guen1
 幾	gui2
@@ -8531,6 +8539,7 @@ use_preset_vocabulary: true
 訛	ngo5
 懸	ngui5
 染	ni2
+奶	ni6
 兩	no6
 厄	oh4
 會	oi3
@@ -8545,6 +8554,7 @@ use_preset_vocabulary: true
 孕	reng6
 汝	ru2
 熱	ruah8
+轉	rueng2
 膻	sang1
 㾪	sang2
 小	sie2
@@ -8563,6 +8573,7 @@ use_preset_vocabulary: true
 換	uan7
 夗	uk8
 䘼	ung2
+姊	zi2
 樟	ziang1
 輯	zip4
 緝	zip4
@@ -8580,10 +8591,13 @@ use_preset_vocabulary: true
 豆仁	dau7 ring5
 地豆	di7 dau7
 潮語	die5 ghv2
+鉸刀	ga1 do1
 家己	ga1 gi7
 家己人	ga1 gi7 nang5
+鉸毛	ga1 mo5
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
+弓蕉	geng1 zie1
 雞翁	goi1 ang1
 穀雨	gok4 u2
 杠杆	gong3 hang2
@@ -8601,6 +8615,7 @@ use_preset_vocabulary: true
 曼谷	mang6 gok8
 明年	me5 ni5
 麻秧	mua5 ng2
+沙茶	sa1 de5
 師父	sai1 be6
 石榴	sieh8 liu5
 纖須	siem1 su1
@@ -8609,6 +8624,8 @@ use_preset_vocabulary: true
 什麽	sim6 moh4
 什麼	sim6 moh4
 先生	sing1 sen1
+沙𧌊	sua1 me1
+頭毛	tau5 mo5
 雨水	u2 zui2
 粘米	ziem1 bhi2
 狀元	zo6 ngueng5
