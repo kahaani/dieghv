@@ -10,24 +10,24 @@
 
 ## 安装方法
 
-- [安装方法〔Windows〕](http://kahaani.github.io/gatian/appendix2/weasel.html)
-- [安装方法〔Mac OS X〕](http://kahaani.github.io/gatian/appendix2/squirrel.html)
-- [安装方法〔Linux〕](http://kahaani.github.io/gatian/appendix2/ibus.html)
-- [安装方法〔Android〕](http://kahaani.github.io/gatian/appendix2/trime.html)
-- [安装方法〔iOS〕](http://kahaani.github.io/gatian/appendix2/irime.html)
+- [安装方法〔Windows〕](https://kahaani.github.io/gatian/appendix2/weasel.html)
+- [安装方法〔Mac OS X〕](https://kahaani.github.io/gatian/appendix2/squirrel.html)
+- [安装方法〔Linux〕](https://kahaani.github.io/gatian/appendix2/ibus.html)
+- [安装方法〔Android〕](https://kahaani.github.io/gatian/appendix2/trime.html)
+- [安装方法〔iOS〕](https://kahaani.github.io/gatian/appendix2/irime.html)
 
 ## 拼音方案速查
 
-- [潮语拼音方案〔潮州音〕](http://kahaani.github.io/gatian/appendix1/dieziu.html)
-- [潮语拼音方案〔汕头音〕](http://kahaani.github.io/gatian/appendix1/suantau.html)
-- [潮语拼音方案〔澄海音〕](http://kahaani.github.io/gatian/appendix1/tenghai.html)
-- [潮语拼音方案〔饶平音〕](http://kahaani.github.io/gatian/appendix1/riaupeng.html)
-- [潮语拼音方案〔揭阳音〕](http://kahaani.github.io/gatian/appendix1/gekion.html)
-- [潮语拼音方案〔潮阳音〕](http://kahaani.github.io/gatian/appendix1/dioion.html)
+- [潮语拼音方案〔潮州音〕](https://kahaani.github.io/gatian/appendix1/dieziu.html)
+- [潮语拼音方案〔汕头音〕](https://kahaani.github.io/gatian/appendix1/suantau.html)
+- [潮语拼音方案〔澄海音〕](https://kahaani.github.io/gatian/appendix1/tenghai.html)
+- [潮语拼音方案〔饶平音〕](https://kahaani.github.io/gatian/appendix1/riaupeng.html)
+- [潮语拼音方案〔揭阳音〕](https://kahaani.github.io/gatian/appendix1/gekion.html)
+- [潮语拼音方案〔潮阳音〕](https://kahaani.github.io/gatian/appendix1/dioion.html)
 
 ## 潮语拼音教程
 
-- [在线阅读](http://kahaani.github.io/gatian)
+- [在线阅读](https://kahaani.github.io/gatian)
 
 ## 致谢
 
