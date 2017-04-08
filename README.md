@@ -3,7 +3,7 @@
 ## 项目特色
 
 - 提供六种口音版本：潮州、汕头、澄海、饶平、揭阳、潮阳
-- 支持四种操作系统：Windows、Mac OS X、Linux、Android
+- 支持多种操作系统：Windows、Mac OS X、Linux、Android、iOS
 - 支持用汉语拼音（普通话）反查潮语拼音（潮汕话）
 - 配套一份通俗易懂的《潮语拼音教程》
 - 在 GitHub 上开源，欢迎有兴趣的爱好者参与
@@ -14,6 +14,7 @@
 - [安装方法〔Mac OS X〕](http://kahaani.github.io/gatian/appendix2/squirrel.html)
 - [安装方法〔Linux〕](http://kahaani.github.io/gatian/appendix2/ibus.html)
 - [安装方法〔Android〕](http://kahaani.github.io/gatian/appendix2/trime.html)
+- [安装方法〔iOS〕](http://kahaani.github.io/gatian/appendix2/irime.html)
 
 ## 拼音方案速查
 
@@ -32,6 +33,7 @@
 
 - [Rime](http://rime.im)：中州韵输入法引擎
 - [Trime](https://github.com/osfans/trime)：同文安卓输入法平台
+- [iRime](https://github.com/jimmy54/iRime)
 
 ## 联系方式
 
