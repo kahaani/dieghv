@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2017.04.25"
+version: "2017.04.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8467,12 +8467,18 @@ use_preset_vocabulary: true
 遍	bin3
 哺	bou7
 飯	bung7
+穿	ceng7
 臊	co1
 找	cue7
 纂	cueng3
+穿	cvng1
 等	dang2
 婷	deng5
+昳	diek4
+昳	diek8
 簟	diem6
+堆	du1
+堆	dui1
 轉	dvng2
 長	dvng5
 斷	dvng6
@@ -8498,6 +8504,8 @@ use_preset_vocabulary: true
 捲	gvng2
 還	hain5
 下	he6
+耳	hin6
+掀	hioun1
 遠	hng6
 擤	hngh4
 荷	ho5
@@ -8513,8 +8521,11 @@ use_preset_vocabulary: true
 燻	hung1
 醺	hung1
 陽	ien5
+昳	ik8
 一	iou1
 檻	kam2
+空	kang1
+空	kang3
 杞	ki2
 奇	kia1
 徛	kia6
@@ -8573,6 +8584,7 @@ use_preset_vocabulary: true
 換	uan7
 夗	uk8
 䘼	ung2
+積	zek4
 姊	zi2
 樟	ziang1
 輯	zip4
@@ -8597,6 +8609,7 @@ use_preset_vocabulary: true
 鉸毛	ga1 mo5
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
+驚蟄	geng1 dek8
 弓蕉	geng1 zie1
 雞翁	goi1 ang1
 穀雨	gok4 u2
@@ -8604,19 +8617,24 @@ use_preset_vocabulary: true
 現在	hing7 zai6
 雨遮	hou6 zia1
 雨水	hou6 zui2
+番梨	hueng1 lai5
 煩惱	hueng5 lo2
 煩惱	hueng5 nau2
+番葛	hung1 guah4
 粉纖	hung2 ciem1
 開元	kai1 ngang5
 工課	kang1 kue3
+流鼻	lau5 pin7
 鬧熱	lau7 riek8
 蓮霧	liem1 bhu7
 𨻧隍	liu5 ng5
+目屎	mak8 sai2
 曼谷	mang6 gok8
 明年	me5 ni5
 麻秧	mua5 ng2
 沙茶	sa1 de5
 師父	sai1 be6
+聖杯	seng3 bue1
 豉油	si7 iu5
 石榴	sieh8 liu5
 纖須	siem1 su1
@@ -8628,6 +8646,7 @@ use_preset_vocabulary: true
 沙𧌊	sua1 me1
 頭毛	tau5 mo5
 雨水	u2 zui2
+積惡	zek4 ak4
 粘米	ziem1 bhi2
 狀元	zo6 ngueng5
 節氣	zoih4 ki3

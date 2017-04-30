@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2017.04.25"
+version: "2017.04.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8471,12 +8471,18 @@ use_preset_vocabulary: true
 遍	bin3
 哺	bou7
 飯	bung7
+穿	ceng7
 臊	co1
 纂	cuang3
 找	cue7
+穿	cvng1
 等	dang2
 婷	deng5
+昳	diak4
+昳	diak8
 簟	diam6
+堆	du1
+堆	dui1
 轉	dvng2
 長	dvng5
 斷	dvng6
@@ -8501,6 +8507,8 @@ use_preset_vocabulary: true
 廣	gvng2
 捲	gvng2
 下	he6
+耳	hin6
+掀	hiaun1
 遠	hng6
 擤	hngh4
 荷	ho5
@@ -8528,8 +8536,11 @@ use_preset_vocabulary: true
 狠	hvng2
 恨	hvng6
 一	iau1
+昳	ik8
 陽	ion5
 檻	kam2
+空	kang1
+空	kang3
 杞	ki2
 奇	kia1
 徛	kia6
@@ -8607,6 +8618,7 @@ use_preset_vocabulary: true
 蒽	vng1
 尹	vng2
 隱	vng2
+積	zek4
 姊	zi2
 樟	ziang1
 輯	zip4
@@ -8631,6 +8643,7 @@ use_preset_vocabulary: true
 鉸毛	ga1 mo5
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
+驚蟄	geng1 dek8
 弓蕉	geng1 zio1
 雞翁	goi1 ang1
 穀雨	gok4 u2
@@ -8638,18 +8651,23 @@ use_preset_vocabulary: true
 現在	hing7 zai6
 雨遮	hou6 zia1
 雨水	hou6 zui2
+番梨	huang1 lai5
 煩惱	huang5 lo2
 煩惱	huang5 nau2
+番葛	hung1 guah4
 粉纖	hung2 ciam1
 工課	kang1 kue3
+流鼻	lau5 pin7
 鬧熱	lau7 riak8
 𨻧隍	liu5 ng5
+目屎	mak8 sai2
 曼谷	mang6 gok8
 明年	me5 ni5
 麻秧	mua5 ng2
 蓮霧	niang1 bhu7
 沙茶	sa1 de5
 師父	sai1 be6
+聖杯	seng3 bue1
 豉油	si7 iu5
 纖須	siam1 su1
 石叻	sik8 lak8
@@ -8661,6 +8679,7 @@ use_preset_vocabulary: true
 沙𧌊	sua1 me1
 頭毛	tau5 mo5
 雨水	u2 zui2
+積惡	zek4 ak4
 粘米	ziam1 bhi2
 狀元	zo6 nguang5
 節氣	zoih4 ki3
