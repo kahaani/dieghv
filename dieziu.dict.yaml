@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2017.05.01"
+version: "2017.11.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8463,6 +8463,7 @@ use_preset_vocabulary: true
 放	bang3
 瓣	bang7
 曝	bau6
+唄	be7
 平	ben5
 遍	bieng3
 遍	bin3
@@ -8484,10 +8485,13 @@ use_preset_vocabulary: true
 長	dvng5
 斷	dvng6
 亦	ek8
+浴	ek8
 翁	eng1
 鉸	ga1
 合	gah4
+缸	gang1
 下	ge6
+支	gi1
 指	gi2
 假	gian2
 見	gin3
@@ -8510,6 +8514,7 @@ use_preset_vocabulary: true
 遠	hng6
 擤	hngh4
 荷	ho5
+呼	hou1
 還	huan1
 歡	huan1
 恢	hue1
@@ -8528,8 +8533,10 @@ use_preset_vocabulary: true
 空	kang1
 空	kang3
 杞	ki2
+歧	ki5
 奇	kia1
 徛	kia6
+呼	kou1
 擴	kuang3
 傾	kueng1
 頃	kueng2
@@ -8540,6 +8547,7 @@ use_preset_vocabulary: true
 流	lau5
 叻	leh4
 𥺴	liem3
+潦	liou5
 唔	m6
 蠓	mang2
 暝	me5
@@ -8569,6 +8577,7 @@ use_preset_vocabulary: true
 轉	rueng2
 膻	sang1
 㾪	sang2
+相	sie1
 小	sie2
 纖	siem1
 薪	sing1
@@ -8590,6 +8599,7 @@ use_preset_vocabulary: true
 樟	ziang1
 輯	zip4
 緝	zip4
+㩼	zoi7
 指	zoin2
 粥	zok8
 就	zu6
@@ -8599,22 +8609,29 @@ use_preset_vocabulary: true
 鴨母𥺴	ah4 bho2 liem3
 翁姐	ang1 zia2
 牡丹	bhou2 duan1
+尾翼	bhue2 iah8
 薄荷	bo7 ho3
+草猴	cau2 gau5
+草蜢	cau2 me2
 手䘼	ciu2 ung2
 豆仁	dau7 ring5
 地豆	di7 dau7
 潮語	die5 ghv2
+得罪	dik4 zo6
 鉸刀	ga1 do1
 家己	ga1 gi7
 家己人	ga1 gi7 nang5
 鉸毛	ga1 mo5
+橄欖	gan1 na2
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
 驚蟄	geng1 dek8
 弓蕉	geng1 zie1
+蜈蚣	ghe5 gang1
 雞翁	goi1 ang1
 穀雨	gok4 u2
 杠杆	gong3 hang2
+香口膠	hiang1 kau2 ga1
 現在	hing7 zai6
 雨遮	hou6 zia1
 雨水	hou6 zui2
@@ -8625,18 +8642,28 @@ use_preset_vocabulary: true
 粉纖	hung2 ciem1
 開元	kai1 ngang5
 工課	kang1 kue3
+欖仁	lam2 ring5
 流鼻	lau5 pin7
 鬧熱	lau7 riek8
 蓮霧	liem1 bhu7
 𨻧隍	liu5 ng5
+目仁	mak8 ring5
 目屎	mak8 sai2
 曼谷	mang6 gok8
 明年	me5 ni5
 麻秧	mua5 ng2
+卵仁	nvng6 ring5
+烏欖	ou1 lam2
 沙茶	sa1 de5
 師父	sai1 be6
+生菇	sen1 gou1
 聖杯	seng3 bue1
 豉油	si7 iu5
+相共	sie1 gang7
+相輔	sie1 hu6
+相罵	sie1 me7
+相輸	sie1 su1
+相借問	sie1 zieh4 mung7
 石榴	sieh8 liu5
 纖須	siem1 su1
 石叻	sik8 lak8
