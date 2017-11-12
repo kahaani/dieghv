@@ -3,7 +3,7 @@
 ## 项目特色
 
 - 提供六种口音版本：潮州、汕头、澄海、饶平、揭阳、潮阳
-- 支持多种操作系统：Windows、Mac OS X、Linux、Android、iOS
+- 支持多种操作系统：Windows、macOS、Linux、Android、iOS
 - 支持用汉语拼音（普通话）反查潮语拼音（潮汕话）
 - 配套一份通俗易懂的《潮语拼音教程》
 - 在 GitHub 上开源，欢迎有兴趣的爱好者参与
@@ -11,7 +11,7 @@
 ## 安装方法
 
 - [安装方法〔Windows〕](https://kahaani.github.io/gatian/appendix2/weasel.html)
-- [安装方法〔Mac OS X〕](https://kahaani.github.io/gatian/appendix2/squirrel.html)
+- [安装方法〔macOS〕](https://kahaani.github.io/gatian/appendix2/squirrel.html)
 - [安装方法〔Linux〕](https://kahaani.github.io/gatian/appendix2/ibus.html)
 - [安装方法〔Android〕](https://kahaani.github.io/gatian/appendix2/trime.html)
 - [安装方法〔iOS〕](https://kahaani.github.io/gatian/appendix2/irime.html)
