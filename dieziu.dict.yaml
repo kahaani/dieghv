@@ -10,7 +10,7 @@
 
 ---
 name: dieziu
-version: "2017.11.12"
+version: "2017.11.26"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8470,6 +8470,7 @@ use_preset_vocabulary: true
 哺	bou7
 飯	bung7
 穿	ceng7
+漱	ciu3
 臊	co1
 找	cue7
 纂	cueng3
@@ -8482,8 +8483,10 @@ use_preset_vocabulary: true
 堆	du1
 堆	dui1
 轉	dvng2
+頓	dvng3
 長	dvng5
 斷	dvng6
+盪	dvng6
 亦	ek8
 浴	ek8
 翁	eng1
@@ -8500,6 +8503,7 @@ use_preset_vocabulary: true
 指	goi1
 狹	goih8
 蓋	gua3
+菓	guain2
 汗	guan7
 逛	guang6
 關	guen1
@@ -8597,6 +8601,7 @@ use_preset_vocabulary: true
 積	zek4
 姊	zi2
 樟	ziang1
+癢	zien6
 輯	zip4
 緝	zip4
 㩼	zoi7
@@ -8614,10 +8619,12 @@ use_preset_vocabulary: true
 草猴	cau2 gau5
 草蜢	cau2 me2
 手䘼	ciu2 ung2
+漱齒	ciu3 ki2
 豆仁	dau7 ring5
 地豆	di7 dau7
 潮語	die5 ghv2
 得罪	dik4 zo6
+盪嘴	dvng6 cui3
 鉸刀	ga1 do1
 家己	ga1 gi7
 家己人	ga1 gi7 nang5
@@ -8628,13 +8635,21 @@ use_preset_vocabulary: true
 驚蟄	geng1 dek8
 弓蕉	geng1 zie1
 蜈蚣	ghe5 gang1
+蜈蚣	ghou5 gong1
 雞翁	goi1 ang1
 穀雨	gok4 u2
 杠杆	gong3 hang2
+歌冊	gua1 ceh4
+歇假	hiah4 gia2
+歇乏	hiah4 hek8
+歇夜	hiah4 me5
 香口膠	hiang1 kau2 ga1
 現在	hing7 zai6
 雨遮	hou6 zia1
 雨水	hou6 zui2
+風禽	huang1 kim5
+風爐	huang1 lou5
+風颱	huang1 tai1
 番梨	hueng1 lai5
 煩惱	hueng5 lo2
 煩惱	hueng5 nau2
@@ -8642,6 +8657,7 @@ use_preset_vocabulary: true
 粉纖	hung2 ciem1
 開元	kai1 ngang5
 工課	kang1 kue3
+齒漱	ki2 ciu3
 欖仁	lam2 ring5
 流鼻	lau5 pin7
 鬧熱	lau7 riek8
@@ -8652,10 +8668,13 @@ use_preset_vocabulary: true
 曼谷	mang6 gok8
 明年	me5 ni5
 麻秧	mua5 ng2
+荔菓	noi7 guain2
 卵仁	nvng6 ring5
 烏欖	ou1 lam2
 沙茶	sa1 de5
 師父	sai1 be6
+剎車	sap8 cia1
+閘車	sap8 cia1
 生菇	sen1 gou1
 聖杯	seng3 bue1
 豉油	si7 iu5
