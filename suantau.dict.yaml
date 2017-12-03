@@ -10,7 +10,7 @@
 
 ---
 name: suantau
-version: "2017.11.26"
+version: "2017.12.03"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -8599,6 +8599,7 @@ use_preset_vocabulary: true
 兩	no6
 餒	nui2
 厄	oh4
+學	oh8
 會	oi3
 狹	oih8
 伏	pak4
@@ -8654,6 +8655,7 @@ use_preset_vocabulary: true
 草蜢	cau2 me2
 手䘼	ciu2 ng2
 漱齒	ciu3 ki2
+髧眉	dam3 bhai7
 豆仁	dau7 ring5
 地豆	di7 dau7
 得罪	dik4 zo6
@@ -8666,6 +8668,7 @@ use_preset_vocabulary: true
 橄欖	gan1 na2
 工夫茶	gang1 hu1 de5
 交代	gau1 dai3
+傢俬	ge1 si1
 驚蟄	geng1 dek8
 弓蕉	geng1 zio1
 蜈蚣	ghe5 gang1
@@ -8706,6 +8709,7 @@ use_preset_vocabulary: true
 烏欖	ou1 nam2
 沙茶	sa1 de5
 師父	sai1 be6
+私家	sai1 kia1
 剎車	sap8 cia1
 閘車	sap8 cia1
 生菇	sen1 gou1
@@ -8724,6 +8728,7 @@ use_preset_vocabulary: true
 相借問	sio1 zioh4 mung7
 石榴	sioh8 liu5
 沙𧌊	sua1 me1
+私家	sv1 ge1
 頭毛	tau5 mo5
 雨水	u2 zui2
 積惡	zek4 ak4
