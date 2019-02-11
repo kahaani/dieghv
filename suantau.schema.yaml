@@ -3,7 +3,7 @@
 
 schema:
   schema_id: suantau
-  name: 潮語拼音〔汕頭〕
+  name: 潮語拼音·汕頭
   version: "2019.02.11"
   author:
     - 騰達 <dieghv@126.com>
@@ -56,7 +56,7 @@ speller:
     # 去掉聲調
     - xform/[1-8]//
 
-    # 針對汕頭新派的模糊音
+    # 針對新派的模糊音
     - derive/am/ang/
     - derive/ap/ak/
     - derive/im/ing/

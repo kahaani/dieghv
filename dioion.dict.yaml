@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: UTF-8 w/o BOM
 #
-# 潮語拼音〔潮陽〕
+# 潮語拼音·潮陽
 #
 # 來源：《潮州音字典》
 # - 吳華重、林適民主編，廣東人民出版社1983年重版
@@ -10,7 +10,7 @@
 
 ---
 name: dioion
-version: "2017.05.01"
+version: "2019.02.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
