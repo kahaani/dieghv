@@ -4,11 +4,11 @@
 schema:
   schema_id: tenghai_60
   name: 省教潮拼〔澄海〕
-  version: "2016.05.01"
+  version: "2019.02.11"
   author:
     - 騰達 <dieghv@126.com>
   description: |
-    項目主頁 http://kahaani.github.io/dieghv
+    項目主頁 https://kahaani.github.io/dieghv
     
     採用1960年9月廣東省教育行政部門公佈的《潮州話拼音方案》，方案中的ê在打字時用ee或v替代
   dependencies:

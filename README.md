@@ -31,12 +31,12 @@
 
 ## 致谢
 
-- [Rime](http://rime.im)：中州韵输入法引擎
+- [Rime](https://rime.im)：中州韵输入法引擎
 - [Trime](https://github.com/osfans/trime)：同文安卓输入法平台
 - [iRime](https://github.com/jimmy54/iRime)
 
 ## 联系方式
 
 - 邮箱：dieghv@126.com
-- 微博：[@dieghv](http://weibo.com/dieghv)
+- 微博：[@dieghv](https://weibo.com/dieghv)
 - 公众号：dieghv

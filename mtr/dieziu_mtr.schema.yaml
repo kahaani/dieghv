@@ -4,11 +4,11 @@
 schema:
   schema_id: dieziu_mtr
   name: 潮語羅馬字〔潮州〕
-  version: "2016.05.01"
+  version: "2019.02.11"
   author:
     - 騰達 <dieghv@126.com>
   description: |
-    項目主頁 http://kahaani.github.io/dieghv
+    項目主頁 https://kahaani.github.io/dieghv
     
     採用海墘閩語論壇的「現代潮語羅馬字」（MTR）
   dependencies:
